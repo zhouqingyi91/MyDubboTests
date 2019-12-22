@@ -13,6 +13,7 @@
         <module>01-zk-provider01</module>
         <module>01-zk-provider02</module>
         <module>01-zk-consumer</module>
+        <module>springboot-dubbo</module>
     </modules>
 
 
